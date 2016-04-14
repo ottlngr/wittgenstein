@@ -1,0 +1,10 @@
+Package: wittgenstein
+Type: Package
+Title: Books and Texts by Ludwig Wittgenstein
+Version: 0.1
+Authors@R: person("Philipp", "Ottolinger", email = "philipp@ottolinger.de", role = c("aut", "cre"))
+Description: Full texts by Austrian philosopher Ludwig Wittgenstein ready for text analysis and visualization. The package contains the full text of the following works: 'Tractatus Logico-Philosophicus'.
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Encoding: UTF-8
